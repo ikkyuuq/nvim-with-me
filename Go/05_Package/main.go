@@ -1,7 +1,7 @@
 package main
 
 import (
-	m "Ikkyuu/05_Package/custom/math"
+	m "Ikkyuu/Go/05_Package/custom/math"
 	"fmt"
 )
 
